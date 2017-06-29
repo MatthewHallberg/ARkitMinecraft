@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARkitMinecraft", "Assembly-CSharp-firstpass.csproj", "{CDDB9894-4E95-5FB1-9C9C-32FC666DEC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARkitMinecraft", "Assembly-CSharp.csproj", "{863F9EFA-493F-08A9-9DBA-6B652AC974CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARkitMinecraft", "Assembly-CSharp-Editor-firstpass.csproj", "{22DBADC8-6D1C-FD93-3565-C3B4D641AFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARkitMinecraft", "Assembly-CSharp-Editor.csproj", "{931AD38F-97DB-36A8-9126-2F752EAA599F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDB9894-4E95-5FB1-9C9C-32FC666DEC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDB9894-4E95-5FB1-9C9C-32FC666DEC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDB9894-4E95-5FB1-9C9C-32FC666DEC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDB9894-4E95-5FB1-9C9C-32FC666DEC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863F9EFA-493F-08A9-9DBA-6B652AC974CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863F9EFA-493F-08A9-9DBA-6B652AC974CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863F9EFA-493F-08A9-9DBA-6B652AC974CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863F9EFA-493F-08A9-9DBA-6B652AC974CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DBADC8-6D1C-FD93-3565-C3B4D641AFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DBADC8-6D1C-FD93-3565-C3B4D641AFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DBADC8-6D1C-FD93-3565-C3B4D641AFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DBADC8-6D1C-FD93-3565-C3B4D641AFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931AD38F-97DB-36A8-9126-2F752EAA599F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931AD38F-97DB-36A8-9126-2F752EAA599F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931AD38F-97DB-36A8-9126-2F752EAA599F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931AD38F-97DB-36A8-9126-2F752EAA599F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

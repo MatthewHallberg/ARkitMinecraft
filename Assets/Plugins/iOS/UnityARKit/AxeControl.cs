@@ -37,13 +37,7 @@ public class AxeControl : MonoBehaviour {
 			}
 
 		} else {
-			print ("I'm looking at nothing!");
+			print ("Nothing!");
 		}
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-		
 	}
 }
